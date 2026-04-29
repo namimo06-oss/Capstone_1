@@ -97,7 +97,3 @@ ORDER BY
 -- not only drive revenue but also have higher average transaction sizes. Thus, strategies like bundling or upselling should be applied 
 -- to boost average transaction size in these categories. Finally, since monthly revenue fluctuates, we should leverage high-demand months 
 -- by increasing promotions and inventory during those periods to maximize growth in the next quarter.
-
-
-
-
